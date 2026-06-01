@@ -32,3 +32,24 @@ Successfully provisioned and managed 25+ user accounts, implemented authenticati
 
 ## Screenshots
 Screenshots demonstrating user provisioning, MFA configuration, Conditional Access policies, and access management activities are included in this repository.
+
+### User Administration
+![Admins](admins.png)
+
+### Finance Staff Group
+![Finance Staff](finance-staff.png)
+
+### HR Staff Group
+![HR Staff](hr-staff.png)
+
+### Interns Group
+![Interns](interns.png)
+
+### Security Team Group
+![Security Team](security-team.png)
+
+### Multi-Factor Authentication (MFA)
+![MFA](mfa-proof.png)
+
+### Conditional Access Policy
+![Conditional Access](conditional-access.png)
